@@ -26,3 +26,5 @@ To get started with the project, follow these steps:
    
 3) Install dependencies listed in the requirements.txt file:
 ```pip install -r requirements.txt```
+
+4) You are good to go!
