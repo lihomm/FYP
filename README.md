@@ -16,10 +16,13 @@ The prediction made by the model can be viewed all at once on the dashboard depl
 To get started with the project, follow these steps:
 
 1) Clone the repository:
-```git clone https://github.com/your-username/your-repository.git```
+```git clone https://github.com/lihomm/FYP.git```
 
 2) Navigate into the project directory:
-```cd your-repository```
+```cd FYP```
 
-3) Install dependencies listed in the requirements file (e.g., requirements.txt for Python projects):
+3) Navigate into the backend directory:
+```cd backend```
+   
+3) Install dependencies listed in the requirements.txt file:
 ```pip install -r requirements.txt```
