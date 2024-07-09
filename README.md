@@ -1,15 +1,15 @@
 # Payment Transaction Fraud Detection System
-## Overview
+## Overview\n
 This is my Final Year Project submitted to Asia Pacific University as part of the fulfillment of my Bachelor's Degree in Computer Science. There were 5 machine learning models developed in this project namely, Deep Neural Network, Long Short-Term Memory (LSTM), Random Forest, LightGBM to predict frauds in payment transactions. The payment transaction data was supplemented by Vesta Corporation.
 
 ## Key Features
-1) Model Agnostic Explainability
+1) Model Agnostic Explainability\n
 The model's prediction can be explained using the LIME value in the dashboard, hence this project is under the category of Explainable AI (XAI) for responsible and ethical AI use in the commercial landscape.
 
-2) Advanced Data Engineering
+2) Advanced Data Engineering\n
 Advanced techniques were used to handle the dataset that presented great challenge to achieve respectable score for the model in terms of AUC-ROC and AUC-PRC.
 
-3) Intuitive Dashboard Deployment
+3) Intuitive Dashboard Deployment\n
 The prediction made by the model can be viewed all at once on the dashboard deployed using Streamlit as frontend and FastAPI as the backend.
 
 ## Installation
