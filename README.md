@@ -1,6 +1,6 @@
 # Payment Transaction Fraud Detection System
 ## Overview
-This is my Final Year Project submitted to Asia Pacific University as part of the fulfillment of my Bachelor's Degree in Computer Science. There were 5 machine learning models developed in this project namely, Deep Neural Network, Long Short-Term Memory (LSTM), Random Forest, LightGBM to predict frauds in payment transactions. The payment transaction data was supplemented by Vesta Corporation.
+This is my Final Year Project submitted to Asia Pacific University as part of the fulfillment of my Bachelor's Degree in Computer Science. There were 4 machine learning models developed in this project namely, Deep Neural Network, Long Short-Term Memory (LSTM), Random Forest, LightGBM to predict frauds in payment transactions. The payment transaction data was supplemented by Vesta Corporation at [here](https://www.kaggle.com/competitions/ieee-fraud-detection/data).
 
 ## Key Features
 1) Model Agnostic Explainability  
